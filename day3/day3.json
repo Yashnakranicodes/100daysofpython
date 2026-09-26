@@ -1,0 +1,44 @@
+[
+ {
+  "category": "transport",
+  "type": "train",
+  "amount": "499",
+  "date": "23-04-2026"
+ },
+ {
+  "category": "study",
+  "type": "library",
+  "amount": "99",
+  "date": "28-04-2026"
+ },
+ {
+  "category": "entertainment",
+  "type": "movie",
+  "amount": "250",
+  "date": "30-04-2026"
+ },
+ {
+  "category": "gadget",
+  "type": "pc",
+  "amount": "200000",
+  "date": "09-09-2026"
+ },
+ {
+  "category": "food",
+  "type": "ice cream",
+  "amount": "50",
+  "date": "23-12-2025"
+ },
+ {
+  "category": "food",
+  "type": "ice cream",
+  "amount": "50",
+  "date": "02-09-2026"
+ },
+ {
+  "category": "food",
+  "type": "cake",
+  "amount": "300",
+  "date": "18-09-2026"
+ }
+]
